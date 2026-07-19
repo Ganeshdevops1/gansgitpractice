@@ -5,3 +5,4 @@ I have added main.tf in the provider section
 This changes are updated under branch called sample
 This is the example to show the Git Fetch
 testing fetch command
+tsting fetch and merge command
